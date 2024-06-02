@@ -1,0 +1,33 @@
+Testing Instructions for the Assignment App
+
+To ensure a smooth testing experience, please follow the steps below:
+
+Prerequisites:
+
+Ensure that you have XAMPP installed on your machine.
+Have a Flutter development environment set up.
+
+Testing Steps:
+
+1) Download and Place the Assignment1 Folder:
+
+- Download the provided Assignment1 folder.
+- Locate your XAMPP installation directory (usually C:\xampp) and navigate to the htdocs folder.
+- Move the Assignment1 folder to the htdocs folder.
+
+2) Start XAMPP Services:
+
+- Launch the XAMPP Control Panel.
+- Start the Apache and MySQL services by clicking on the "Start" buttons next to them.
+
+3) Run the Assignment App:
+
+- Open your Flutter project in your preferred IDE (such as Visual Studio Code).
+- Ensure that your Android emulator or physical device is connected and recognized.
+- Run the Assignment App using the appropriate command (flutter run).
+
+4) Testing APIs:
+
+- Once the app is running, navigate to the sections or features you wish to test.
+- Interact with the app as a user would, and observe its behavior.
+- Test various APIs such as sign-in, registration, profile updates, etc., to ensure they function correctly.
